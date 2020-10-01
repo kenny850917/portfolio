@@ -36,7 +36,7 @@ const FooterTwo = () => {
                     <div className="col-lg-4 col-md-12 col-sm-12 col-12">
                         <div className="inner text-lg-right text-center mt_md--20 mt_sm--20">
                             <div className="text-center">
-                                <p>Copyright © 2020 Designed with Lots of ☕ and 💗 By Kenny.</p>
+                                <p>Copyright © 2020 Designed with Lots of <span role='img' aria-label="coffee">☕</span> and <span role='img' aria-label="heart">💗</span> By Kenny.</p>
                             </div>
                         </div>
                     </div>

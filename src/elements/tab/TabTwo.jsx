@@ -63,10 +63,13 @@ class TabsTwo extends Component{
                                        <div className="single-tab-content">
                                            <ul>
                                                <li>
-                                                   <a href="/hardskill">FullStack developer, intern<span> - EvolveX</span></a> 2020 
+                                                   <a href="/hardskill">FullStack developer <span> - Self Employed</span></a> 2020 
                                                </li>
                                                <li>
-                                                   <a href="/hardskill">FullStack developer, intern<span> - UBC</span></a> 2019
+                                                   <a href="/hardskill">FullStack developer - intern<span> - EvolveX</span></a> 2020 
+                                               </li>
+                                               <li>
+                                                   <a href="/hardskill">FullStack developer - intern<span> - UBC</span></a> 2019
                                                </li>
                                                
                                            </ul>

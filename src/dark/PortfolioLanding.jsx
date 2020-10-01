@@ -156,7 +156,7 @@ const PortfolioLanding = () => {
                             <div className="col-lg-12 col-md-12 col-sm-12 col-12">
                                 <div className="section-title text-center">
                                     <h2>Projects Overview</h2>
-                                    <p>"Goals are dreams with deadlines." ~ Diana Scharf <br /><h5>but at least, dreams come true!</h5></p>
+                                    <p>"Goals are dreams with deadlines." ~ Diana Scharf </p><br /><h5>but at least, dreams come true!</h5>
                                 </div>
                             </div>
                         </div>
@@ -191,7 +191,7 @@ const PortfolioLanding = () => {
             {/* Start COntact Area */}
             <div id="contact" className="fix">
                 <div className="rn-contact-area ptb--120 bg_color--1">
-                    <ContactThree contactImages="/assets/images/about/about-12.jpg" contactTitle="Business Inqueries" />
+                    <ContactThree contactImages="/assets/images/about/about-13.jpg" contactTitle="Business Inqueries" />
                 </div>
             </div>
             {/* End COntact Area */}
