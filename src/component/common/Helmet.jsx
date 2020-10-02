@@ -7,7 +7,7 @@ class PageHelmet extends Component{
             <React.Fragment>
                 <Helmet>
                     <title>Kenny Ho Portfolio </title>
-                    <meta name="description" content="Trydo – Multipurpose React Template is a multi-use React template. It is designed to go well with multi-purpose websites. Trydo React Template will create that various landing Template, Creative Agency, And Corporate Website ." />
+                    <meta name="description" content="Personal portfolio showcasing my skills and techniques" />
                 </Helmet>
             </React.Fragment>
         )
