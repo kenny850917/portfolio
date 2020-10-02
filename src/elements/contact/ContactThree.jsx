@@ -21,6 +21,7 @@ class ContactThree extends Component{
                                 <p className="description">Got some ideas? Contact me via email: 
                                     <a href="mailto:kenny850917@gmail.com"> kenny850917@gmail.com</a> </p>
                                     <p>Let's discuss!</p>
+                                    <p>Also check out my social media platforms.</p>
                             </div>
                             {/* <div className="form-wrapper">
                                 <form>

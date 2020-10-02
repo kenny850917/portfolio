@@ -1,7 +1,7 @@
 const BlogContent = [
     {
         images: '05',
-        title: ' Finding soap? We got you!',
+        title: ' E-commerce website selling handmade soap',
         description: "Free lancer project",
         category: 'E-commerce',
         status: 'launched',
