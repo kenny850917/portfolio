@@ -22,7 +22,7 @@ const SlideList = [
 ]
 const PortfolioLanding = () => {
     let title = 'About Me',
-        description = 'Technologies inspired me when I was in adolescence; the moment when I determined to become on of the computer scientist. Throughout my life, I am eager to be challenged and engaged in projects that require to work outside of my knowledge scope. Continuing expose myself under new development techniques are the essentials that helps me expand my knowledge thus catch up to the latest trends. ';
+        description = 'Technologies inspired me when I was in adolescence; it determined my goal of being a computer scientist. I am eager to be challenged and engaged in projects that require to work outside of my knowledge scope. Continue to expose myself under new development techniques are the essentials that helps me expand my knowledge thus catch up to the latest trends. ';
     const PostList = BlogContent.slice(0 , 3);
     return (
         <div className="active-dark">

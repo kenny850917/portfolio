@@ -29,7 +29,7 @@ class TabsTwo extends Component{
                                             <ul>
                                                 <li>
                                                     <a href="/hardskill">Web and interface design <span> - Frontend Development</span></a>
-                                                    Step by step, components by components... boom!
+                                                    Step by step, components by components...
                                                 </li>
                                                 <li>
                                                     <a href="/hardskill">Database structure<span> - Backend Development</span></a>
@@ -46,9 +46,9 @@ class TabsTwo extends Component{
                                     <TabPanel>
                                        <div className="single-tab-content">
                                            <ul>
-                                           <li>
+                                           {/* <li>
                                                    <a href="/hardskill">Passionate <span>- strive for better</span></a> current
-                                               </li>
+                                               </li> */}
                                                <li>
                                                    <a href="/hardskill">Burnaby South Web design <span>- Top 3</span></a> 2015
                                                </li>
